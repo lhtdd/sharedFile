@@ -1,0 +1,17 @@
+<application>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="http://10.180.21.29/sdgsxlzf/ehall" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="http://10.180.21.29/sdgsxlzf/ehall" />
+        <option value="http://10.180.21.29/sdgsxlzf" />
+        <option value="https://10.180.225.200/svn/ehall" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="D:\Program Files\TortoiseSVN\bin\svn.exe" />
+  </component>
+</application>

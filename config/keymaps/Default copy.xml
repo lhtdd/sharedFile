@@ -1,0 +1,9 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="CollapseSelection">
+    <keyboard-shortcut first-keystroke="ctrl period" />
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="FixDocComment">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
+</keymap>

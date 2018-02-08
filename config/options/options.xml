@@ -1,0 +1,56 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="installed.kotlin.plugin.version" value="1.2.0-release-IJ2017.3-1" />
+    <property name="android-component-compatibility-check" value="1517793623992" />
+    <property name="file.chooser.recent.files" value="D:/Program Files (x86)/Apache Software Foundation/apache-maven-3.0.4/conf/settings.xml&#10;E:/IDEAProject/test/lib/commons-httpclient-3.1.jar&#10;D:/Java/jre6&#10;E:/IDEAProject/essm/WebRoot/acardnewmgr/apply_index.jsp&#10;E:/IDEAProject/uniint&#10;E:/IDEAProject/uniint/target/classes&#10;E:/IDEAProject/uniint/target/test-classes&#10;E:/IDEAProject/uniint/src/main/webapp/WEB-INF/classes&#10;E:/IDEAProject/essm/WebRoot/WEB-INF/web.xml.production&#10;E:/IDEAProject/essm/WebRoot/WEB-INF/classes&#10;E:/IDEAProject/essm/src/com/egc/essm/ibats&#10;E:/IDEAProject/essm/src/com/egc/essm/ibats/sql/acardmgr&#10;E:/IDEAProject/essm/src/applicationContext[base].xml&#10;E:/IDEAProject/openetc/src/main/webapp/WEB-INF/classes&#10;E:/IDEAProject/openetc&#10;E:/IDEAProject/essm/out&#10;D:/tomcat-7.0.81&#10;D:/apache-tomcat-7.0.54&#10;D:/Tomcat-7.0.68&#10;E:/IDEAProject/ltk/WebRoot/WEB-INF/lib&#10;E:/IDEAProject/ltk/out&#10;E:/IDEAProject/ltk/WebRoot/WEB-INF/classes&#10;E:/IDEAProject/ltk/WebRoot&#10;E:/IDEAProject/ltk/WebRoot/WEB-INF/web.xml&#10;E:/IDEAProject&#10;E:/IDEAProject/essm/WebRoot/WEB-INF/lib&#10;E:/IDEAProject/essm/src/com/egc/essm/action/cardmgr/CarinfoAction.java&#10;D:/Java/jdk1.6.0_14&#10;E:/IDEAProject/essm/WebRoot&#10;E:/IDEAProject/essm/WebRoot/WEB-INF/web.xml" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="ts.lib.d.ts.version" value="2.6.1" />
+    <property name="lastTip" value="1" />
+    <property name="file.gist.reindex.count" value="33835" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.13012362" />
+    <property name="SpringBeansModulesPanel[0]" value="0.13012362" />
+    <property name="project.wizard.group" value="org.jetbrains.idea.maven.wizards.MavenModuleBuilder" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="project.wizard.template" value="Maven" />
+    <property name="last.imported.location" value="E:/IDEAProject/ETC/essm/essm.iml" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="selected.color.option.type" value="CONSOLE_BLUE_OUTPUT" />
+    <property name="typescript.show.auto.import" value="true" />
+    <property name="es6.show.auto.import" value="true" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.1529052" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.18066847" />
+    <property name="FrameworksFinderRecursivePanel[3]" value="0.22075056" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="javaee.appServer.lastUsedServer" value="Tomcat 7.0.81" />
+    <property name="javaee.appServer.lastUsedIntegration" value="Tomcat Server" />
+    <property name="Darcula.savedEditorTheme" value="Zenburn" />
+    <property name="IJ_BASE_PACKAGE" value="com.company" />
+    <property name="PLUGIN_FILTER" value="JRebel Plugin&#10;alibaba" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.65034014" />
+    <property name="KEYMAP" value="fold&#10;dup&#10;duplica&#10;fix" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="MavenModuleWizard.inheritGroupId" value="true" />
+    <property name="MavenModuleWizard.inheritVersion" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.SelectionHistoryDialog.1" value="800" />
+    <property name="SearchEveryWhereHistory" value="resultt" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Tabs and Indents" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION" value="0.60589814" />
+    <property name="INSPECTION_FILTER_HISTORY" value="unused&#10;spell&#10;unused proper" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="quick.doc.font.size" value="SMALL" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.25325444" />
+  </component>
+</application>
