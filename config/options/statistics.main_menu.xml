@@ -1,26 +1,29 @@
 <application>
   <component name="MainMenuCollector">
     <counts>
-      <entry path="Build -&gt; Build Artifacts..." count="6" />
-      <entry path="Build -&gt; Build Module" count="4" />
+      <entry path="Build -&gt; Build Artifacts..." count="37" />
+      <entry path="Build -&gt; Build Module" count="6" />
       <entry path="Code -&gt; Delegate Methods..." count="1" />
-      <entry path="Code -&gt; Generate..." count="2" />
+      <entry path="Code -&gt; Generate..." count="3" />
       <entry path="Code -&gt; Implement Methods..." count="1" />
       <entry path="Code -&gt; Override Methods..." count="1" />
       <entry path="Code -&gt; Reformat Code" count="3" />
+      <entry path="Code -&gt; Unwrap/Remove..." count="1" />
       <entry path="Edit -&gt; Find -&gt; Find in Path..." count="2" />
-      <entry path="File -&gt; Close Project" count="8" />
+      <entry path="File -&gt; Close Project" count="9" />
       <entry path="File -&gt; Import Settings..." count="14" />
-      <entry path="File -&gt; Invalidate Caches / Restart..." count="6" />
+      <entry path="File -&gt; Invalidate Caches / Restart..." count="8" />
+      <entry path="File -&gt; New -&gt; Java Class" count="2" />
       <entry path="File -&gt; New -&gt; Module from Existing Sources..." count="4" />
       <entry path="File -&gt; New -&gt; Module..." count="5" />
       <entry path="File -&gt; New -&gt; Project from Existing Sources..." count="3" />
       <entry path="File -&gt; New -&gt; Project from Version Control -&gt; GitHub" count="2" />
-      <entry path="File -&gt; New -&gt; Project from Version Control -&gt; Subversion" count="5" />
-      <entry path="File -&gt; New -&gt; Project..." count="7" />
-      <entry path="File -&gt; Open Recent -&gt; Manage Projects..." count="2" />
-      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="32" />
-      <entry path="File -&gt; Open..." count="4" />
+      <entry path="File -&gt; New -&gt; Project from Version Control -&gt; Subversion" count="11" />
+      <entry path="File -&gt; New -&gt; Project..." count="9" />
+      <entry path="File -&gt; Open Recent -&gt; Manage Projects..." count="3" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="100" />
+      <entry path="File -&gt; Open URL..." count="1" />
+      <entry path="File -&gt; Open..." count="7" />
       <entry path="File -&gt; Other Settings -&gt; Default Project Structure..." count="2" />
       <entry path="File -&gt; Other Settings -&gt; Default Settings..." count="9" />
       <entry path="File -&gt; Power Save Mode" count="4" />
@@ -31,22 +34,25 @@
       <entry path="Help -&gt; Check for Updates..." count="1" />
       <entry path="Help -&gt; Edit Custom Properties..." count="1" />
       <entry path="Help -&gt; Edit Custom VM Options..." count="2" />
-      <entry path="Navigate -&gt; Call Hierarchy" count="1" />
-      <entry path="Run -&gt; Debug" count="1" />
+      <entry path="Navigate -&gt; Call Hierarchy" count="3" />
+      <entry path="Navigate -&gt; Test" count="1" />
+      <entry path="Run -&gt; Debug" count="2" />
       <entry path="Run -&gt; Debug..." count="1" />
       <entry path="Run -&gt; Edit Configurations..." count="3" />
       <entry path="VCS -&gt; Checkout from Version Control -&gt; GitHub" count="3" />
       <entry path="VCS -&gt; Checkout from Version Control -&gt; Subversion" count="1" />
       <entry path="VCS -&gt; Git -&gt; Compare with..." count="1" />
       <entry path="VCS -&gt; Git -&gt; Push..." count="1" />
-      <entry path="VCS -&gt; Subversion -&gt; Compare with Latest Repository Version" count="2" />
-      <entry path="VCS -&gt; Subversion -&gt; Compare with the Same Repository Version" count="1" />
+      <entry path="VCS -&gt; Subversion -&gt; Compare with Latest Repository Version" count="4" />
+      <entry path="VCS -&gt; Subversion -&gt; Compare with the Same Repository Version" count="2" />
+      <entry path="VCS -&gt; Subversion -&gt; Show History" count="1" />
       <entry path="VCS -&gt; Update Project" count="1" />
       <entry path="View -&gt; Navigation Bar" count="1" />
       <entry path="View -&gt; Tool Buttons" count="1" />
       <entry path="View -&gt; Toolbar" count="3" />
-      <entry path="Window -&gt; Editor Tabs -&gt; Split Horizontally" count="1" />
-      <entry path="Window -&gt; Editor Tabs -&gt; Split Vertically" count="1" />
+      <entry path="Window -&gt; Editor Tabs -&gt; Move Right" count="1" />
+      <entry path="Window -&gt; Editor Tabs -&gt; Split Horizontally" count="6" />
+      <entry path="Window -&gt; Editor Tabs -&gt; Split Vertically" count="2" />
       <entry path="Window -&gt; essm" count="1" />
       <entry path="Window -&gt; openetc" count="1" />
     </counts>

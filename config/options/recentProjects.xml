@@ -3,23 +3,23 @@
     <option name="recentPaths">
       <list>
         <option value="E:/IDEAProject/test" />
-        <option value="E:/IDEAProject/ltk" />
-        <option value="E:/IDEAProject/essm" />
         <option value="E:/IDEAProject/uniint" />
         <option value="E:/IDEAProject/openetc" />
+        <option value="E:/IDEAProject/ltk" />
+        <option value="E:/IDEAProject/essm" />
         <option value="E:/IDEAProject/mo" />
+        <option value="E:/IDEAProject/datasum" />
+        <option value="E:/IDEAProject/datasum/out/artifacts" />
       </list>
     </option>
     <option name="openPaths">
       <list>
         <option value="E:/IDEAProject/openetc" />
-        <option value="E:/IDEAProject/uniint" />
-        <option value="E:/IDEAProject/essm" />
         <option value="E:/IDEAProject/test" />
       </list>
     </option>
     <option name="lastPath" value="E:/IDEAProject/test" />
-    <option name="pid" value="7540" />
+    <option name="pid" value="10100" />
     <option name="additionalInfo">
       <map>
         <entry key="E:/IDEAProject">
@@ -77,14 +77,36 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="E:/IDEAProject/datasum">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3942.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523426610013" />
+              <option name="buildTimestamp" value="1512983485336" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="E:/IDEAProject/datasum/out/artifacts">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.3942.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1522659855132" />
+              <option name="buildTimestamp" value="1512983492147" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="E:/IDEAProject/essm">
           <value>
             <RecentProjectMetaInfo>
               <option name="build" value="IU-173.3942.27" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1518058897915" />
-              <option name="buildTimestamp" value="1512983466078" />
+              <option name="projectOpenTimestamp" value="1526288918029" />
+              <option name="buildTimestamp" value="1512983509749" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -94,8 +116,8 @@
               <option name="build" value="IU-173.3942.27" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1517989785267" />
-              <option name="buildTimestamp" value="1512983466078" />
+              <option name="projectOpenTimestamp" value="1526287483601" />
+              <option name="buildTimestamp" value="1512983509749" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -105,8 +127,8 @@
               <option name="build" value="IU-173.3942.27" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1514541664488" />
-              <option name="buildTimestamp" value="1512983461784" />
+              <option name="projectOpenTimestamp" value="1524908010250" />
+              <option name="buildTimestamp" value="1512983487455" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -138,8 +160,8 @@
               <option name="build" value="IU-173.3942.27" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1518058897915" />
-              <option name="buildTimestamp" value="1512983466078" />
+              <option name="projectOpenTimestamp" value="1526540090236" />
+              <option name="buildTimestamp" value="1512983508199" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -160,8 +182,8 @@
               <option name="build" value="IU-173.3942.27" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1518058897915" />
-              <option name="buildTimestamp" value="1512983466078" />
+              <option name="projectOpenTimestamp" value="1526540090236" />
+              <option name="buildTimestamp" value="1512983508199" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -182,8 +204,8 @@
               <option name="build" value="IU-173.3942.27" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1518058897915" />
-              <option name="buildTimestamp" value="1512983466078" />
+              <option name="projectOpenTimestamp" value="1526436020822" />
+              <option name="buildTimestamp" value="1512983508199" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
